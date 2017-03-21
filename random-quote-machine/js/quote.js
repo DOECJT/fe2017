@@ -2,7 +2,12 @@ $(document).ready(function(){
 	$.ajax({
 		url:"json/tags.json",
 		success:function(response){
-			var res=JSON.parse(response);
+			if(typeof response=="string"){
+				var res=JSON.parse(response);
+			}
+			else{
+				var res=response;
+			}
 			var color="";
 			var tag={};
 			$(".change").on("click",function(){
