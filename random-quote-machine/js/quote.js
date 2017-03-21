@@ -10,10 +10,22 @@ $(document).ready(function(){
 				tag=res.tags[Math.floor(Math.random()*10)];
 				$(".sentence").text(tag.sentence);
 				$(".author").text(tag.author);
-				$("body").css("background-color",color);
-				$(".change").css("background-color",color);
-				$(".sentence").css("color",color);
-				$(".author").css("color",color);
+				$("body").css({
+					"transition":"0.5s",
+					"background-color":color
+				});
+				$(".change").css({
+					"transition":"0.5s",
+					"background-color":color
+				});
+				$(".sentence").css({
+					"transition":"0.5s",
+					"color":color
+				});
+				$(".author").css({
+					"transition":"0.5s",
+					"color":color
+				});
 			});
 		}
 	});
