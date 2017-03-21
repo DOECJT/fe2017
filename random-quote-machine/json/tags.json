@@ -1,0 +1,45 @@
+{
+	"colors":["#f13e60","#6451f0","#516ff0","#3094e8","#2abed9","#2ad9c2","#a2c33f","#f2cc36","#f2a936","#f27836"],
+	"tags":[
+		{
+			"sentence":"Failure is the mother of success.",
+			"author":"Thomas Paine"
+		},
+		{
+			"sentence":"None is of freedom or of life deserving unless he daily conquers it anew.",
+			"author":"Erasmus"
+		},
+		{
+			"sentence":"Our destiny offers not the cup of despair, but the chalice of opportunity. So let us seize it, not in fear, but in gladness.",
+			"author":"R.M. Nixon"
+		},
+		{
+			"sentence":"Living without an aim is like sailing without a compass.",
+			"author":"John Ruskin"
+		},
+		{
+			"sentence":"Towering genius disdains a beaten path. It seeks regions hitherto unexplored.",
+			"author":"Lincoln"
+		},
+		{
+			"sentence":"Fear not that the life shall come to an end, but rather fear that it shall never have a beginning.",
+			"author":"J.H. Newman"
+		},
+		{
+			"sentence":"Try not to become a man of success but rather try to become a man of value.",
+			"author":"A. Einstein"
+		},
+		{
+			"sentence":"You have to believe in yourself. That's the secret of success.",
+			"author":"Charles Chaplin"
+		},
+		{
+			"sentence":"Pursue your object, be it what it will, steadily and indefatigably.",
+			"author":"famous person"
+		},
+		{
+			"sentence":"We must accept finite disappointment, but we must never lose infinite hope.",
+			"author":"Mattin Luther King"
+		}
+	]
+}
